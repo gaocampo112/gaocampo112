@@ -1,4 +1,5 @@
-<video src="https://github.com/gaocampo112/gaocampo112/blob/main/Neon%20Glitch%20Twitch%20Banner%20.mp4" width="500px" autoplay muted loop></video>
+<video src="https://github.com/gaocampo112/gaocampo112/assets/109930738/4eb98387-0685-4c9a-9a17-fe68a26059e7" width="500px" autoplay muted loop></video>
+
 
 
 <h1 align="center">Hi 👋, I'm Gabriel Ocampo</h1>
