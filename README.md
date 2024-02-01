@@ -1,3 +1,5 @@
+<video src="https://github.com/gaocampo112/gaocampo112/blob/main/Neon%20Glitch%20Twitch%20Banner%20.mp4"></video>
+
 <h1 align="center">Hi 👋, I'm Gabriel Ocampo</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
