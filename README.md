@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ocampo</h1>
-<h3 align="center">A passionate full-stack developer from Colombia</h3><img src="https://github.com/gaocampo112/gaocampo112/blob/main/IMG/IMG_0061-ai-brush-removebg-youoswxx.png" alt="foto-personal" width="15%" height="15%">
+<h3 align="center">A passionate full-stack developer from Colombia</h3>
+<img src="[https://github.com/gaocampo112/gaocampo112/blob/main/IMG/IMG_0061-ai-brush-removebg-youoswxx.png](https://github.com/gaocampo112/gaocampo112/blob/main/IMG/Gabriel-ocampo-foto.jpg)" alt="foto-personal" width="15%" height="15%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaocampo112&label=Profile%20views&color=0e75b6&style=flat" alt="gaocampo112" /> </p>
 
