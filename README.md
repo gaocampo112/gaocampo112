@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaocampo112&label=Profile%20views&color=0e75b6&style=flat" alt="gaocampo112" /> </p>
 
 - 🔭 I am currently studying at **Dev.F**
+- 
+- 👯 I’m part of the amazing DEV.F community.
 
 - 🌱 I’m currently learning **HTML, CSS & JS.**
 
