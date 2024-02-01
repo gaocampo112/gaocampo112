@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" width="800px" height="300">
+<img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" width="90%" height="300">
 
 
 
