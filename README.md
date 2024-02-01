@@ -1,11 +1,6 @@
-
-
-<img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" width="90%" height="300">
-
-
-
-<h1 align="center">Hi 👋, I'm Gabriel Ocampo</h1>
-<h3 align="center">A passionate full-stack developer from Colombia</h3>
+<h1 align="center">
+      <img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" align="center"  width="90%" height="280">
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaocampo112&label=Profile%20views&color=0e75b6&style=flat" alt="gaocampo112" /> </p>
 
