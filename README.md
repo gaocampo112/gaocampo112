@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" align="center"  width="98%" height="280">
+      <img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/b677dbe2-2cff-453b-ac38-2d817df6f813" alt="foto de perfil" align="center"  width="70%">
 </div>
 <br>
 
