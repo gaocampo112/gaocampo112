@@ -6,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaocampo112&label=Profile%20views&color=0e75b6&style=flat" alt="gaocampo112" /> </p>
 
+- 🔭 I'm currently studying at **Dev.F**
+
+- 🌱 I am becoming a **Full-stack developer**
+
+- 📫 How to reach me **gaocampo112@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/gabrielocampo_112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabrielocampo_112" height="30" width="40" /></a>
