@@ -1,7 +1,7 @@
 <div align="center">
       <img src="https://github.com/gaocampo112/gaocampo112/assets/109930738/264f41b3-24ea-4703-80b1-a99724809c13"  width="98%">
 </div>
-<h3 align="center">I am a Junior Fullstack Developer. I am passionate about software development and I am always looking to learn new technologies and improve my skills.</h3>
+<h3 align="center">I am a Fullstack Developer. I am passionate about software development and I am always looking to learn new technologies and improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaocampo112&label=Profile%20views&color=0e75b6&style=flat" alt="gaocampo112" /> </p>
 
